@@ -1,8 +1,8 @@
 
 Genevieve
 A MERN based Image Generation tool developed using DALL-E engine from Open-AI
-![Uploading HeroPage.png…]()
-![Uploading CreatePost.png…]()
+![HeroPage](https://github.com/ssmahipala/Genevieve/assets/121356783/40e334a5-32cc-4715-b3e6-b77f077f2cc6)
+![Showcase](https://github.com/ssmahipala/Genevieve/assets/121356783/e6608576-2e7b-46ce-9a79-afc271699c87)
 ![Showcase](https://github.com/ssmahipala/Genevieve/assets/121356783/5a26926a-c89d-48d2-8acf-cd84587d882e)
 
 Still under Development
